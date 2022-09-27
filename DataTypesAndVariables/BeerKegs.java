@@ -7,7 +7,7 @@ public class BeerKegs {
         Scanner scanner = new Scanner(System.in);
 
         int kegs = Integer.parseInt(scanner.nextLine());
-        double biggestVolume = 0;
+        double biggestVolume = Double.MIN_VALUE;
         String modelName = "";
 
         for (int i = 0; i < kegs; i++) {
@@ -17,7 +17,7 @@ public class BeerKegs {
 
             double volume = Math.PI*(radius*radius)*height;
             if (volume>biggestVolume){
-                biggestVolume += volume;
+                biggestVolume = volume;
                 modelName = model;
             }
         }

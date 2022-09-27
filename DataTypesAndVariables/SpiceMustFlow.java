@@ -11,11 +11,14 @@ public class SpiceMustFlow {
         int totalSpice = 0;
 
         while (startingYield >= 100){
-            totalSpice += startingYield - 26;
+            totalSpice += startingYield;
             days++;
             startingYield -= 10;
+            totalSpice -= 26;
         }
-        totalSpice -= 26;
+        if (startingYield<100&&totalSpice>=26) {
+            totalSpice -= 26;
+        }
         System.out.println(days);
         System.out.println(totalSpice);
 
