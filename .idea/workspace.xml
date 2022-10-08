@@ -2,10 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ebf983b-79cb-40bc-96e3-965f69592886" name="Changes" comment="Exercise Arrays">
-      <change afterPath="$PROJECT_DIR$/Arrays/LIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/SignOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/CalculateRectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/MathPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/MultiplyEvensByOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/PrintingTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/RepeatString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ArrayModifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ArrayModifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ArrayRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/CommonElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/CommonElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/CondenseArrayToNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/CondenseArrayToNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/EncryptSortPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/EncryptSortPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/LIS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/LIS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/MagicSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/MagicSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/MaxSequenceOfEqualElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/MaxSequenceOfEqualElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/PascalTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/PascalTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/TopIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/TopIntegers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/Train.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/Train.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ZigZagArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ZigZagArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/SignOfInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/SignOfInteger.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +59,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SignOfInteger">
-    <configuration name="EncryptSortPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.EncryptSortPrint" />
+  <component name="RunManager" selected="Application.MultiplyEvensByOdds">
+    <configuration name="CalculateRectangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.CalculateRectangleArea" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Fibonacci" />
+    <configuration name="MathPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MathPower" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LIS" />
+    <configuration name="MultiplyEvensByOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MultiplyEvensByOdds" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.PascalTriangle" />
+    <configuration name="Orders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Orders" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.SignOfInteger" />
+    <configuration name="RepeatString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.RepeatString" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SignOfInteger" />
-        <item itemvalue="Application.LIS" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.PascalTriangle" />
-        <item itemvalue="Application.EncryptSortPrint" />
+        <item itemvalue="Application.MultiplyEvensByOdds" />
+        <item itemvalue="Application.MathPower" />
+        <item itemvalue="Application.RepeatString" />
+        <item itemvalue="Application.CalculateRectangleArea" />
+        <item itemvalue="Application.Orders" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +223,26 @@
           <url>file://$PROJECT_DIR$/Arrays/LIS.java</url>
           <line>9</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Methods/PrintingTriangle.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Methods/Calculations.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Methods/MathPower.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Methods/MultiplyEvensByOdds.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
