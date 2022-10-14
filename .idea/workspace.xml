@@ -2,25 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ebf983b-79cb-40bc-96e3-965f69592886" name="Changes" comment="Exercise Arrays">
-      <change afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/AddAndSubtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/CharactersInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/MiddleCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/NxNMatix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/PasswordValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/SmallestOfThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/Vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/GaussTrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/ListManipulationAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/ListManipulationBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/ListOfProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/MergingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/RemoveNegativesAndReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/SumAdjacentEqualNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/CondenseArrayToNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/CondenseArrayToNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/CalculateRectangleArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/CalculateRectangleArea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/Calculations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/Calculations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/Grades.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/Grades.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/MathPower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/MathPower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/MultiplyEvensByOdds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/MultiplyEvensByOdds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/Orders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/PrintingTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/PrintingTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/RepeatString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/RepeatString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/NxNMatix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/NxNMatix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +46,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.NxNMatix">
-    <configuration name="AddAndSubtract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.AddAndSubtract" />
+  <component name="RunManager" selected="Application.RemoveNegativesAndReverse">
+    <configuration name="ListManipulationAdvanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.ListManipulationAdvanced" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharactersInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.CharactersInRange" />
+    <configuration name="ListManipulationBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.ListManipulationBasics" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.MiddleCharacters" />
+    <configuration name="ListOfProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.ListOfProducts" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NxNMatix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.NxNMatix" />
+    <configuration name="MergingLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.MergingLists" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.PasswordValidator" />
+    <configuration name="RemoveNegativesAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.RemoveNegativesAndReverse" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NxNMatix" />
-        <item itemvalue="Application.MiddleCharacters" />
-        <item itemvalue="Application.AddAndSubtract" />
-        <item itemvalue="Application.PasswordValidator" />
-        <item itemvalue="Application.CharactersInRange" />
+        <item itemvalue="Application.RemoveNegativesAndReverse" />
+        <item itemvalue="Application.ListOfProducts" />
+        <item itemvalue="Application.ListManipulationAdvanced" />
+        <item itemvalue="Application.ListManipulationBasics" />
+        <item itemvalue="Application.MergingLists" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +222,31 @@
           <line>12</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/SumAdjacentEqualNumbers.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/GaussTrick.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/MergingLists.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="23" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="inputList1" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
