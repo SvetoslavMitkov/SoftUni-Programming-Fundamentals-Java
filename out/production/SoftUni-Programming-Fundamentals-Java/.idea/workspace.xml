@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ebf983b-79cb-40bc-96e3-965f69592886" name="Changes" comment="Exercise Arrays">
-      <change afterPath="$PROJECT_DIR$/Lists/SumAdjacentEqualNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/ChangeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/HouseParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Train.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,13 +49,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SumAdjacentEqualNumbers">
-    <configuration name="AddAndSubtract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.AddAndSubtract" />
+  <component name="RunManager" selected="Application.ChangeList">
+    <configuration name="ChangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.ChangeList" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.MiddleCharacters" />
+    <configuration name="ListManipulationAdvanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.ListManipulationAdvanced" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NxNMatix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.NxNMatix" />
+    <configuration name="ListOfProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.ListOfProducts" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.PasswordValidator" />
+    <configuration name="RemoveNegativesAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.RemoveNegativesAndReverse" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumAdjacentEqualNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.SumAdjacentEqualNumbers" />
+    <configuration name="Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.Train" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumAdjacentEqualNumbers" />
-        <item itemvalue="Application.NxNMatix" />
-        <item itemvalue="Application.MiddleCharacters" />
-        <item itemvalue="Application.AddAndSubtract" />
-        <item itemvalue="Application.PasswordValidator" />
+        <item itemvalue="Application.ChangeList" />
+        <item itemvalue="Application.Train" />
+        <item itemvalue="Application.RemoveNegativesAndReverse" />
+        <item itemvalue="Application.ListOfProducts" />
+        <item itemvalue="Application.ListManipulationAdvanced" />
       </list>
     </recent_temporary>
   </component>
@@ -216,10 +227,44 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Lists/SumAdjacentEqualNumbers.java</url>
-          <line>16</line>
+          <line>14</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/GaussTrick.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/MergingLists.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/Train.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/ChangeList.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/HouseParty.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="23" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="inputList1" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
