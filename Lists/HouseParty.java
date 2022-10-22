@@ -12,9 +12,23 @@ public class HouseParty {
         List<String> guestList = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-            String guest = scanner.nextLine();
-
-
+            String[] guestInfo = scanner.nextLine().split(" is ");
+            if (guestInfo[1].equals("going!")){
+                if (guestList.contains(guestInfo[0])){
+                    System.out.printf("%s is already in the list!%n",guestInfo[0]);
+                }else{
+                    guestList.add(guestInfo[0]);
+                }
+            }else if (guestInfo[1].equals("not going!")){
+                if (!guestList.contains(guestInfo[0])){
+                    System.out.printf("%s is not in the list!%n",guestInfo[0]);
+                }else{
+                    guestList.remove(guestInfo[0]);
+                }
+            }
+        }
+        for (String name : guestList) {
+            System.out.println(name);
         }
     }
 }
