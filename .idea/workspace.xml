@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ebf983b-79cb-40bc-96e3-965f69592886" name="Changes" comment="Exercise Arrays">
-      <change afterPath="$PROJECT_DIR$/ExamPreparations/ArrayModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparations/GuineaPig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparations/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/BombNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/ListOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/PokemonDontGo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_10_2022_г__20_55_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/HouseParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/HouseParty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Lists/HouseParty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Lists/HouseParty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Помощни/Подсказки.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Помощни/Подсказки.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Помощни/Подсказки.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Помощни/Подсказки.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +45,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RunManager" selected="Application.Inventory">
     <configuration name="ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
