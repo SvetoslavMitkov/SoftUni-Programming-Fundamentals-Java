@@ -18,3 +18,18 @@ str.append(текст или променлива);
 System.out.println(str.toString());
 
 new DecimalFormat("0.###").format(числото);
+
+за създаване на foreach за associative array
+име на аррей.entrySet() и Alt + Enter -> итериране по всеки елемент
+
+System.out.println(inputList.toString().replaceAll("[\\[\\],]",""));
+
+map.values() -> връща списък с всички value на записите
+
+някакъв текст.indexOf("друг текст") - проверява на кой индекс се намира даден стринг в друг
+Ако няма такъв индекс връща -1, винаги връща int
+
+сортиране на мап по value от задача Race:
+ List<String> sortedRacers = racersMap.entrySet().stream()
+                .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
+                .limit(3).map(Map.Entry::getKey).collect(Collectors.toList());

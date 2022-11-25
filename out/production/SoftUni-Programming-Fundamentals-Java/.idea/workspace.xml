@@ -2,16 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ebf983b-79cb-40bc-96e3-965f69592886" name="Changes" comment="Exercise Arrays">
-      <change afterPath="$PROJECT_DIR$/ExamPreparations/ArrayModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparations/GuineaPig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/BombNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/ListOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/PokemonDontGo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_10_2022_г__20_55_[Changes]/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/CharsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/CountRealNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/ForceBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/LegendaryFarming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/MinerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/OddOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/SoftUniParking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/StudentAcademy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/WordSynonyms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/WordsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/BigFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/BigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/RandomizeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Songs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Students2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchFullName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/SoftUniBarIncome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/CaesarCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/CharacterMultiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/DigitLettersOther.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/ExtractFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/RepeatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/StringExplosion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/TextFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/ValidUsernames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/common.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Помощни/синтаксис - Regex.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Помощни/синтаксис - Асоциативни масиви.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Помощни/синтаксис - Обекти и класове.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/HouseParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/HouseParty.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Lists/HouseParty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Lists/HouseParty.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Помощни/Подсказки.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Помощни/Подсказки.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Помощни/Подсказки.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Помощни/Подсказки.txt" afterDir="false" />
     </list>
@@ -55,14 +85,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.ArrayModifier">
-    <configuration name="ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparations.ArrayModifier" />
+  <component name="RunManager" selected="Application.SoftUniBarIncome">
+    <configuration name="Furniture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressions.Furniture" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparations.*" />
+          <option name="PATTERN" value="RegularExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BombNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.BombNumbers" />
+    <configuration name="MatchDates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressions.MatchDates" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lists.*" />
+          <option name="PATTERN" value="RegularExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.Demo" />
+    <configuration name="MatchPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressions.MatchPhoneNumber" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lists.*" />
+          <option name="PATTERN" value="RegularExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuineaPig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparations.GuineaPig" />
+    <configuration name="Race" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressions.Race" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparations.*" />
+          <option name="PATTERN" value="RegularExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.ListOperations" />
+    <configuration name="SoftUniBarIncome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressions.SoftUniBarIncome" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lists.*" />
+          <option name="PATTERN" value="RegularExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayModifier" />
-        <item itemvalue="Application.GuineaPig" />
-        <item itemvalue="Application.BombNumbers" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.ListOperations" />
+        <item itemvalue="Application.SoftUniBarIncome" />
+        <item itemvalue="Application.Race" />
+        <item itemvalue="Application.Furniture" />
+        <item itemvalue="Application.MatchDates" />
+        <item itemvalue="Application.MatchPhoneNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -282,6 +313,91 @@
           <line>13</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExamPreparations/ArrayModifier.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExamPreparations/Inventory.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClasses/Students2.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArrays/WordSynonyms.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArrays/OddOccurrences.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArrays/CharsInString.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArrays/MinerTask.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArrays/StudentAcademy.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArrays/StudentAcademy.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArrays/LegendaryFarming.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArrays/LegendaryFarming.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/ValidUsernames.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/CharacterMultiplier.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/ExtractFile.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/StringExplosion.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArrays/ForceBook.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/Race.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
           <option name="timeStamp" value="23" />
@@ -292,10 +408,5 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="inputList1" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
