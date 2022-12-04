@@ -2,27 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ebf983b-79cb-40bc-96e3-965f69592886" name="Changes" comment="Exercise Arrays">
-      <change afterPath="$PROJECT_DIR$/RegularExpressions/StarEnigma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/LettersCHangeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExam/EasterEggs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExam/Followers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExam/Hogwarts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/SoftUni-Programming-Fundamentals-Java.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ArrayModifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ArrayModifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ArrayRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/CommonElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/CommonElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/EncryptSortPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/EncryptSortPrint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/LIS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/LIS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/MagicSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/MagicSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/MaxSequenceOfEqualElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/MaxSequenceOfEqualElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/PascalTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/PascalTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/TopIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/TopIntegers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/Train.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/Train.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ZigZagArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Arrays/ZigZagArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/CharsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/CharsInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/CountRealNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/CountRealNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/Courses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/Courses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/ForceBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/ForceBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/LegendaryFarming.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/LegendaryFarming.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/MinerTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/MinerTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/OddOccurrences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/OddOccurrences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/Orders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/SoftUniParking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/SoftUniParking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/StudentAcademy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/StudentAcademy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/WordSynonyms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/WordSynonyms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/WordsFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/AssociativeArrays/WordsFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/ActivationKeys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/ActivationKeys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/AdAstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/AdAstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/FancyBarcodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/FancyBarcodes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/HeroesOfCodeAndLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/HeroesOfCodeAndLogic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/SignOfInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Methods/SignOfInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Помощни/Подсказки.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Помощни/Подсказки.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/PasswordReset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/PasswordReset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/PlantDiscovery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/PlantDiscovery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/MidExam/TheHuntingGames.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/MidExam/TheHuntingGames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/BigFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/BigFactorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/BigNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/BigNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/RandomizeWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/RandomizeWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Songs$Song.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Songs$Song.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Songs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Songs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Students$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Students$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Students.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Students2$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Students2$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Students2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/ObjectsAndClasses/Students2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/Furniture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/Furniture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/MatchDates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/MatchDates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/MatchFullName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/MatchFullName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/MatchPhoneNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/MatchPhoneNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/Race.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/Race.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/SoftUniBarIncome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/SoftUniBarIncome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/StarEnigma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/StarEnigma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/CaesarCipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/CaesarCipher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/CharacterMultiplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/CharacterMultiplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/DigitLettersOther.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/DigitLettersOther.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/ExtractFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/ExtractFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/LettersCHangeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/LettersCHangeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/RepeatString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/RepeatString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/StringExplosion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/StringExplosion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/Substring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/TextFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/TextFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/ValidUsernames.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/ValidUsernames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/common.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/TextProcessing/common.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Помощни/Подсказки.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/Помощни/Подсказки.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,20 +98,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.StarEnigma">
-    <configuration name="AdAstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalExamPreparations.AdAstra" />
-      <module name="SoftUni-Programming-Fundamentals-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FinalExamPreparations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Hogwarts">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RegularExpressions.Demo" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
@@ -93,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeroesOfCodeAndLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalExamPreparations.HeroesOfCodeAndLogic" />
+    <configuration name="EasterEggs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExam.EasterEggs" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FinalExamPreparations.*" />
+          <option name="PATTERN" value="FinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LettersCHangeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextProcessing.LettersCHangeNumbers" />
+    <configuration name="Followers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExam.Followers" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TextProcessing.*" />
+          <option name="PATTERN" value="FinalExam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hogwarts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExam.Hogwarts" />
+      <module name="SoftUni-Programming-Fundamentals-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hogwarts" />
+        <item itemvalue="Application.Followers" />
+        <item itemvalue="Application.EasterEggs" />
         <item itemvalue="Application.StarEnigma" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.LettersCHangeNumbers" />
-        <item itemvalue="Application.HeroesOfCodeAndLogic" />
-        <item itemvalue="Application.AdAstra" />
       </list>
     </recent_temporary>
   </component>
@@ -416,6 +448,16 @@
           <url>file://$PROJECT_DIR$/RegularExpressions/StarEnigma.java</url>
           <line>29</line>
           <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FinalExam/Hogwarts.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FinalExam/Followers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.UnsupportedOperationException" package="java.lang" />

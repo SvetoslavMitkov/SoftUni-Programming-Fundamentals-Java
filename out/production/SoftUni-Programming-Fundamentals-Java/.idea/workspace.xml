@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ebf983b-79cb-40bc-96e3-965f69592886" name="Changes" comment="Exercise Arrays">
-      <change afterPath="$PROJECT_DIR$/RegularExpressions/StarEnigma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/LettersCHangeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExam/Hogwarts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/HeroesOfCodeAndLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/HeroesOfCodeAndLogic.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +47,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.StarEnigma">
-    <configuration name="AdAstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalExamPreparations.AdAstra" />
+  <component name="RunManager" selected="Application.Hogwarts">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressions.Demo" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FinalExamPreparations.*" />
+          <option name="PATTERN" value="RegularExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LettersCHangeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextProcessing.LettersCHangeNumbers" />
+    <configuration name="Hogwarts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExam.Hogwarts" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TextProcessing.*" />
+          <option name="PATTERN" value="FinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordReset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalExamPreparations.PasswordReset" />
+    <configuration name="LettersCHangeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextProcessing.LettersCHangeNumbers" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FinalExamPreparations.*" />
+          <option name="PATTERN" value="TextProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hogwarts" />
         <item itemvalue="Application.StarEnigma" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.LettersCHangeNumbers" />
         <item itemvalue="Application.HeroesOfCodeAndLogic" />
-        <item itemvalue="Application.AdAstra" />
-        <item itemvalue="Application.PasswordReset" />
       </list>
     </recent_temporary>
   </component>
@@ -395,6 +392,11 @@
           <url>file://$PROJECT_DIR$/TextProcessing/LettersCHangeNumbers.java</url>
           <line>9</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/StarEnigma.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
