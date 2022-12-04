@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ebf983b-79cb-40bc-96e3-965f69592886" name="Changes" comment="Exercise Arrays">
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparations/ActivationKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparations/AdAstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparations/FancyBarcodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparations/HeroesOfCodeAndLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparations/PasswordReset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparations/PlantDiscovery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Помощни/синтаксис - Обработка на текстове.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/StarEnigma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/LettersCHangeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/SoftUniBarIncome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/RegularExpressions/SoftUniBarIncome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/HeroesOfCodeAndLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni-Programming-Fundamentals-Java/FinalExamPreparations/HeroesOfCodeAndLogic.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,20 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.AdAstra">
-    <configuration name="ActivationKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalExamPreparations.ActivationKeys" />
-      <module name="SoftUni-Programming-Fundamentals-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FinalExamPreparations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StarEnigma">
     <configuration name="AdAstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FinalExamPreparations.AdAstra" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
@@ -82,12 +64,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FancyBarcodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalExamPreparations.FancyBarcodes" />
+    <configuration name="HeroesOfCodeAndLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExamPreparations.HeroesOfCodeAndLogic" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="FinalExamPreparations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LettersCHangeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextProcessing.LettersCHangeNumbers" />
+      <module name="SoftUni-Programming-Fundamentals-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TextProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlantDiscovery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalExamPreparations.PlantDiscovery" />
+    <configuration name="StarEnigma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressions.StarEnigma" />
       <module name="SoftUni-Programming-Fundamentals-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FinalExamPreparations.*" />
+          <option name="PATTERN" value="RegularExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StarEnigma" />
+        <item itemvalue="Application.LettersCHangeNumbers" />
+        <item itemvalue="Application.HeroesOfCodeAndLogic" />
         <item itemvalue="Application.AdAstra" />
         <item itemvalue="Application.PasswordReset" />
-        <item itemvalue="Application.PlantDiscovery" />
-        <item itemvalue="Application.FancyBarcodes" />
-        <item itemvalue="Application.ActivationKeys" />
       </list>
     </recent_temporary>
   </component>
@@ -390,6 +385,16 @@
           <url>file://$PROJECT_DIR$/FinalExamPreparations/AdAstra.java</url>
           <line>10</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FinalExamPreparations/HeroesOfCodeAndLogic.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/LettersCHangeNumbers.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
